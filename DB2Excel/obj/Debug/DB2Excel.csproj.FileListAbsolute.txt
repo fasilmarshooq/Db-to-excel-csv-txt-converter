@@ -1,0 +1,13 @@
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\bin\Debug\DB2Excel.exe.config
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\bin\Debug\DB2Excel.exe
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\bin\Debug\DB2Excel.pdb
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\DB2Excel.csprojAssemblyReference.cache
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\DB2Excel.csproj.CoreCompileInputs.cache
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\DB2Excel.exe
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\DB2Excel.pdb
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\DB2Excel.csproj.ResolveComReference.cache
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\bin\Debug\DB2Excel.exe.manifest
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\bin\Debug\DB2Excel.application
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\DB2Excel.exe.manifest
+C:\Users\fasil.m\source\repos\DB2Excel\DB2Excel\obj\Debug\DB2Excel.application
